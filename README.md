@@ -26,20 +26,29 @@ Under bias Cg = Ig x t / VGS , here VGS = V2 and Ig= I1 The area under current c
 ![image](https://github.com/user-attachments/assets/d01e797f-58fb-499a-8532-b75b1d89ec7e)
 Switching frequency f = 1/T where T is time of one cycle i.e time period between one fall and one rise
 
-Whe pMOS is ON, nMOS is OFF
+When pMOS is ON, nMOS is OFF
+
 When pMOS pulls Vout to VDD
 VOH = VDD = 0.7 mV
-minimum output voltage occurs when input is high (Vin = VDD)
+
+Minimum output voltage occurs when input is high (Vin = VDD)
+
 When pMOS is OFF, nMOS is ON
 The nMOS pulls Vout to Ground
+
  VOL = 0 V
+ 
 Input Low Voltage,
+
 VIL
 – Vin such that Vin < VIL = logic 0
+
 Find on VTC curve the point on the plot where ∂Vin/∂Vout =-1
 
 Input High Voltage, VIH
+
 – Vin such that Vin > VIH = logic 1
+
 Find  point ‘b’ on the plot where slope =-1
 
 VNMH = VOH - VIH = VDD - VIH  VNML = VIL
@@ -47,11 +56,17 @@ VNMH = VOH - VIH = VDD - VIH  VNML = VIL
 Av = Change in Vout /change in Vin
 
 Output resistance can be calculated by ohm’s law Von/I2 
+
 Transconductance gm = Av/Rout 
 
 P = PS + Pdyn
+
 – PS: static due to leakage
+
 – Pdyn: dynamic (signal changing) term
+
 Total P = IDDVDD + Cout VDD^2f
+
 Co= Td  /Ro
+
 Leakage current can be calculated from the value of current at 0V input, mark that point on the graph.
