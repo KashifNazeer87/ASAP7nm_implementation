@@ -1,6 +1,6 @@
 # ASAP7nm_implementation
 
-Dataset is being updated, kindly go the dataset file to view the latest updates.
+**Dataset is being updated, kindly go the dataset file to view the latest updates.**
 
 
 Transient Characteristics of CMOS inverter
