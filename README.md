@@ -21,7 +21,7 @@ Drain current is output at Vm by KCL whole of the current at output during opera
 Cg= cgsoxL + cgsoxL = 1.6e-10 x 7e-9 +1.6e-10x7e-9 = 22.40 e-19 F under no bias
 
 ![image](https://github.com/user-attachments/assets/ab71d91a-3fbf-4fb4-99a5-b7cc6ab677df)
-Under bias Cg = Ig x t / VGS , here VGS = V2 and Ig= I1 The area under current curve gives charge stored within that time period.
+Under bias Cg = Ig x t / VGS , here VGS = V1 and Ig= I1 The area under current curve gives charge stored within that time period.
 
 ![image](https://github.com/user-attachments/assets/d01e797f-58fb-499a-8532-b75b1d89ec7e)
 Switching frequency f = 1/T where T is time of one cycle i.e time period between one fall and one rise
