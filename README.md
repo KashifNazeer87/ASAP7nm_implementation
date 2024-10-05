@@ -9,7 +9,7 @@ CMOS Inverter VTC Characteristics
 ![image](https://github.com/user-attachments/assets/d4a22a68-1444-4e2f-ab1e-c04aea78e2d4)
 
 
-Rise and fall time are calculated from the transient charactteristics graph at 10% and 90% of the max values 
+Rise and fall time are calculated from the transient characteristics graph at 10% and 90% of the max values 
 ![image](https://github.com/user-attachments/assets/db7caf7f-4834-4c8e-8304-68bed1ea1595)
 Then time delay = (rise time + fall time)/2
 
