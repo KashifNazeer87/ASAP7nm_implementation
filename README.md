@@ -1,6 +1,6 @@
 # ASAP7nm_implementation
 
-**Dataset is being updated, kindly go the dataset file to view the latest updates.**
+**Dataset Updated on 05th October 2024**
 
 
 Transient Characteristics of CMOS inverter
@@ -13,20 +13,26 @@ CMOS Inverter VTC Characteristics
 
 
 Rise and fall time are calculated from the transient characteristics graph at 10% and 90% of the max values 
+
 ![image](https://github.com/user-attachments/assets/db7caf7f-4834-4c8e-8304-68bed1ea1595)
+
 Then time delay = (rise time + fall time)/2
 
 ![image](https://github.com/user-attachments/assets/752704a7-6581-44ad-a4dd-fb9239f269df)
+
 Drain current is output at Vm by KCL whole of the current at output during operation is drain current .
 
 
 ![image](https://github.com/user-attachments/assets/92a18068-d55f-4e6f-9084-60a5068d0caa)
+
 Cg= cgsoxL + cgsoxL = 1.6e-10 x 7e-9 +1.6e-10x7e-9 = 22.40 e-19 F under no bias
 
 ![image](https://github.com/user-attachments/assets/ab71d91a-3fbf-4fb4-99a5-b7cc6ab677df)
+
 Under bias Cg = Ig x t / VGS , here VGS = V1 and Ig= I1 The area under current curve gives charge stored within that time period.
 
 ![image](https://github.com/user-attachments/assets/d01e797f-58fb-499a-8532-b75b1d89ec7e)
+
 Switching frequency f = 1/T where T is time of one cycle i.e time period between one fall and one rise
 
 When pMOS is ON, nMOS is OFF
