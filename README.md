@@ -5,7 +5,8 @@
 
 Transient Characteristics of CMOS inverter
 
-![Id](https://github.com/user-attachments/assets/971a2572-435e-476e-8666-fa5dad3650ef)
+![ubuntu2  Running  - Oracle VM VirtualBox 03-10-2024 12_04_53](https://github.com/user-attachments/assets/bca59ff2-ef4f-46c9-bb11-a1a7a50fb675)
+
 
 CMOS Inverter VTC Characteristics
 ![image](https://github.com/user-attachments/assets/d4a22a68-1444-4e2f-ab1e-c04aea78e2d4)
