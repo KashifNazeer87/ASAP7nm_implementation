@@ -4,7 +4,9 @@
 
 
 Transient Characteristics of CMOS inverter
-![image](https://github.com/user-attachments/assets/614f7428-0356-43cc-9d30-6f99f74e2347)
+
+![Id](https://github.com/user-attachments/assets/971a2572-435e-476e-8666-fa5dad3650ef)
+
 CMOS Inverter VTC Characteristics
 ![image](https://github.com/user-attachments/assets/d4a22a68-1444-4e2f-ab1e-c04aea78e2d4)
 
