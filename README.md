@@ -83,6 +83,9 @@ Leakage current can be calculated from the value of current at 0V input, mark th
 ## Bootstrapping circuit for sample and hold.
 
 ![image](https://github.com/user-attachments/assets/4c884e5e-8c81-4d20-928a-64301979c097)
-It utlizes charge injection and clock feedthrough.
+
+
+It utliizes charge injection and clock feedthrough.
+
 ![image](https://github.com/user-attachments/assets/38bf9772-3c2e-48af-b3fc-b6502c00861d)
 
