@@ -77,5 +77,5 @@ P = PS + Pdyn
 Total P = IDDVDD + Cout VDD^2f
 
 Co= Td  /Ro
-
+## New Section Title
 Leakage current can be calculated from the value of current at 0V input, mark that point on the graph.
