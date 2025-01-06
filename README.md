@@ -3,7 +3,7 @@
 **Dataset Updated on 06th October 2024**
 
 
-Transient Characteristics of CMOS inverter
+Transient Characteristics of CMOS inverter using ASPAP7nm
 
 ![ubuntu2  Running  - Oracle VM VirtualBox 03-10-2024 12_04_53](https://github.com/user-attachments/assets/bca59ff2-ef4f-46c9-bb11-a1a7a50fb675)
 
